@@ -1,0 +1,1 @@
+game.ReplicatedStorage.GameData.AdminPanelEnabled.Value = true
