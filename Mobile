@@ -1,1 +1,2 @@
 game.Players.LocalPlayer.PlayerGui.MainUI.LobbyFrame.CreateElevator.SidePanel.Modifiers.AdminPanel.Visible = true
+game.ReplicatedStorage.GameData.AdminPanelEnabled.Value = true
